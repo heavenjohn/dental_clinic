@@ -12,17 +12,6 @@ _Prerequisites_
 - Web Browser
 
 Git clone the repo. Create new database named `jgdc_db`. Import the data from the `jgdc_db.sql` file. Serve the site using php.
-
-## Superuser (Admin) Account
-
-email: `adminPassword0@gmail.com`
-pasword : `adminPassword0`
-     
-## Patient Account
-
-email: `userPassword0@gmail.com`
-password: `userPassword0`
-
 ## Features to be implemeted
 
 Create tasks here for everyone to see and pick which one would you like to work on.
